@@ -1,1 +1,0 @@
-This repository contains examples of projects and documentation related to cybersecurity, developed as part of my preparation for Google's certification in cybersecurity. Here you can find evidence of my skills and knowledge acquired during the courses.
